@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "40073779902",
+    "project_id": "gmaillogin-f5b93"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40073779902:android:5170a2712e3e6d65",
+        "android_client_info": {
+          "package_name": "com.example.avancosys.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40073779902-n4pnkhktrl2diiobk91juih1vbi1bj51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avancosys.loginpage",
+            "certificate_hash": "9D39A9455E0411F22C91E276E5815637E3484759"
+          }
+        },
+        {
+          "client_id": "40073779902-8occ0aedt9g0v8r745mhi03bfj80kd02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1VvW862wOMB0ZqSgGzKNcPMJU06iF_c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
